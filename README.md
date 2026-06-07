@@ -1,5 +1,22 @@
 # Projects
 
+## Improving Romanian ASR for specific domains with TTS-based data augmentation (Master's Thesis)
+
+[Documentation](https://github.com/IoanaLiviaPortfolio/Projects/blob/main/Master's_Thesis_Improving_Romanian_ASR_for_specific_domains_with_TTS_based_data_augmentation.pdf)
+
+This thesis explores the use of text to-speech synthesis (TTS) as a data augmentation
+method to improve the performance of Automatic Speech Recognition (ASR) systems
+for low-resource languages in specialized domains. This study presents a novel dataset
+of Romanian audio-transcript pairs sourced from astrology-related YouTube videos,
+primarily designed for ASR but also applicable to other speech-related tasks such as
+language identification. We generate synthetic speech from text prompts automatically
+extracted from the horoscope section of ProTV, a major Romanian media TV channel.
+The text is converted to audio using TTS systems developed by Google and Microsoft.
+This synthetic data is then combined with the training data from our newly introduced
+dataset to fine-tune the Whisper Small model, which was pre-trained on large-scale
+multilingual data. Experimental results demonstrate improved performance on the test
+set of the new dataset as well as on two other Romanian horoscope-related datasets.
+
 ### Machine Learning - Sentence Pair Classification (Ranked 1/115 - private Kaggle competition for enrolled students) 
 
 [Sentence Pair Classification (Kaggle)](https://www.kaggle.com/competitions/sentence-pair-classification-pml-2023)
