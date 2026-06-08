@@ -17,24 +17,6 @@ dataset to fine-tune the Whisper Small model, which was pre-trained on large-sca
 multilingual data. Experimental results demonstrate improved performance on the test
 set of the new dataset as well as on two other Romanian horoscope-related datasets.
 
-### Machine Learning - Sentence Pair Classification (Ranked 1/115 - private Kaggle competition for enrolled students) 
-
-[Sentence Pair Classification (Kaggle)](https://www.kaggle.com/competitions/sentence-pair-classification-pml-2023)
-
-[Documentation](https://github.com/IoanaLiviaPortfolio/Projects/blob/main/Machine_Learning_Sentence_Pair_Classification.pdf)
-
-Sentence pair classification challenge focused on training classifiers using a dataset composed of Romanian sentences.
-
-### Deep Learning - Image-Sentence Pair Matching (Ranked 1/68 - private Kaggle competition for enrolled students)
-
-[Image Sentence Pair Matching (Kaggle)](https://www.kaggle.com/competitions/isp-match-dl-2024)
-
-[Documentation](https://github.com/IoanaLiviaPortfolio/Projects/blob/main/Deep_Learning_Image_Sentence_Pair_Classification.pdf)
-
-Binary classification of image + sentence pairs. The sentences are
-interpreted as potential captions - they could either match the image (label 1) or not (label 0). Among
-the rules, the use of additional data, pre-defined models or pre-trained models has been prohibited.
-
 ### Computer Vision - Mathable Solver
 
 [Documentation](https://github.com/IoanaLiviaPortfolio/Projects/blob/main/Computer_Vision_Mathable_Solver.pdf)
@@ -56,6 +38,29 @@ Automatic identification and tracking system for the surveillance
 of on-street parking spaces. The approach for object detection and tracking is mainly based on the
 Yolov8 implementation provided by Ultralytics and manual selection of desired areas to be analyzed,
 adjusted based on the training data.
+
+### Machine Learning - Sentence Pair Classification (Ranked 1/115 - private Kaggle competition for enrolled students) 
+
+[Sentence Pair Classification (Kaggle) - the link is added just for reference, as only participants can access private competition details](https://www.kaggle.com/competitions/sentence-pair-classification-pml-2023)
+
+<img width="1880" height="1154" alt="image" src="https://github.com/user-attachments/assets/aa5f9f93-d3a8-48ae-9d34-82a5dc4a7343" />
+
+[Documentation](https://github.com/IoanaLiviaPortfolio/Projects/blob/main/Machine_Learning_Sentence_Pair_Classification.pdf)
+
+Sentence pair classification challenge focused on training classifiers using a dataset composed of Romanian sentences.
+
+### Deep Learning - Image-Sentence Pair Matching (Ranked 1/68 - private Kaggle competition for enrolled students)
+
+[Image Sentence Pair Matching (Kaggle) - the link is added just for reference, as only participants can access private competition details](https://www.kaggle.com/competitions/isp-match-dl-2024)
+
+<img width="1926" height="1159" alt="image" src="https://github.com/user-attachments/assets/f702fb28-6bc2-4e1a-93ef-b493193f0e7b" />
+
+
+[Documentation](https://github.com/IoanaLiviaPortfolio/Projects/blob/main/Deep_Learning_Image_Sentence_Pair_Classification.pdf)
+
+Binary classification of image + sentence pairs. The sentences are
+interpreted as potential captions - they could either match the image (label 1) or not (label 0). Among
+the rules, the use of additional data, pre-defined models or pre-trained models has been prohibited.
 
 ### RoReEmo - Romanian Reddit Emotion Dataset
 
